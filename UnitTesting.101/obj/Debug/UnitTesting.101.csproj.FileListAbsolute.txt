@@ -1,0 +1,6 @@
+c:\Repos\UnitTesting.101\UnitTesting.101\bin\Debug\UnitTesting.101.exe.config
+c:\Repos\UnitTesting.101\UnitTesting.101\bin\Debug\UnitTesting.101.exe
+c:\Repos\UnitTesting.101\UnitTesting.101\bin\Debug\UnitTesting.101.pdb
+c:\Repos\UnitTesting.101\UnitTesting.101\obj\Debug\UnitTesting.101.csprojResolveAssemblyReference.cache
+c:\Repos\UnitTesting.101\UnitTesting.101\obj\Debug\UnitTesting.101.exe
+c:\Repos\UnitTesting.101\UnitTesting.101\obj\Debug\UnitTesting.101.pdb

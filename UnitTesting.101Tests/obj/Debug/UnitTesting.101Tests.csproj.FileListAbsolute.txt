@@ -1,0 +1,17 @@
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\bin\Debug\UnitTesting.101Tests.dll
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\bin\Debug\UnitTesting.101Tests.pdb
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\bin\Debug\UnitTesting.101.exe
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\bin\Debug\UnitTesting.101.pdb
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\obj\Debug\UnitTesting.101Tests.csprojResolveAssemblyReference.cache
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\obj\Debug\UnitTesting.101Tests.dll
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\obj\Debug\UnitTesting.101Tests.pdb
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\bin\Debug\Castle.Core.dll
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\bin\Debug\Moq.dll
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\bin\Debug\System.ValueTuple.dll
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\bin\Debug\Castle.Core.xml
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\bin\Debug\Moq.pdb
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\bin\Debug\Moq.xml
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+c:\Repos\UnitTesting.101\UnitTesting.101Tests\bin\Debug\System.ValueTuple.xml
